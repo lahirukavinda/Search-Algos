@@ -1,0 +1,10 @@
+,,,"(Amarillo, Texas) -> (Houston, Texas)",Total Distance
+,,,,
+Uninformed Search,"Uniformed Cost Search
+(Dijkstra)",Distance as weight,"['AMA', 'LAS', 'IND', 'MDW', 'JAN', 'HOU']",3536
+,Bidirectional Search,No weights,"['AMA', 'LAS', 'IND', 'JAX', 'HOU']",3853
+Informed Search,A*,"With heuristic function
+Distance as weight","['AMA', 'LAS', 'IND', 'MDW', 'JAN', 'HOU']",3536
+,,,,
+,,,,
+,,,,
