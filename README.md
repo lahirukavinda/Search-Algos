@@ -6,3 +6,4 @@ Assignment 2 : Apply search algorimths for industrially available data set using
 Library: Python NetworkX <br />
 Search Algorithms: Uniform Cost Search (Dijkstra), Bidirectional Search, A* Search (with heuristic function) <br />
 Data set: Internal airline data from Department of Transportation USA <br />
+![alt text](https://raw.githubusercontent.com/lahirukavinda/Search-Algos/main/image.PNG)
