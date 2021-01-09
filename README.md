@@ -1,5 +1,5 @@
 # Search-Algos
-MSc in AI
-Semester 1 Part 1
-Essentials of Artificial Intellegence
+MSc in AI <br />
+Semester 1 Part 1 <br />
+Essentials of Artificial Intellegence <br />
 Assignment 2
